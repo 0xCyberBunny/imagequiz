@@ -1,0 +1,47 @@
+h1{
+  background: #e0ffff;
+  border: none ;
+}
+
+.frame{
+    font: italic bold 12px/30px Georgia, serif;
+    height: 300px;
+    width: 300px;
+    background: #e0ffff;
+    margin-left: 10px;
+    text-align: center;
+    border: none;
+}
+
+.text {
+  background: #abf092;
+  margin-left: 10px;
+}
+
+.button {
+  background-color: lightgrey;
+  border: solid;
+  color: black;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+ }
+
+ body {
+   background-color: lightblue;
+   text-align: center;
+ }
+
+ img {
+   height: 300px;
+   width: 300px;
+ }
+
+#container {
+     width: 800px;
+     height: 600px;
+     display: flex;
+     margin: auto;
+     border: none;
+     justify-content: center;
+ }
